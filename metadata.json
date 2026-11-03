@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate",
+  "description": "A clean, modern AI study companion for personalized multi-year roadmaps, daily study plans, patient AI tutoring, quizzes, and consistency tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
